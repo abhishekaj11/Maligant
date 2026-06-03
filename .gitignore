@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+da.py
+EDA.py
+eda.py
+evaluvate.py
+final.py
+model.py
+predict.py
+test.py
+train.py
+main.ipynb
+data/
+outputs/
+models/
